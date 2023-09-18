@@ -1,0 +1,19 @@
+{
+    "Название функции": "Данные получены путем вызова функции - 'url_responce'",
+    "Дата": "18.09.23",
+    "Время": "22:53",
+    "link": "https://hh.ru/vacancy/86769018?from=vacancy_search_list&query=python",
+    "vacancy_name": "Бекенд-разработчик (Python/Django/PHP/Symfony)",
+    "salary": "80 000 – 150 000 ₽",
+    "company_name": "ООО Геоинформационные Сервисы",
+    "city": "Москва"
+}{
+    "Название функции": "Данные получены путем вызова функции - 'url_responce'",
+    "Дата": "18.09.23",
+    "Время": "22:53",
+    "link": "https://hh.ru/vacancy/86387633?from=vacancy_search_list&query=python",
+    "vacancy_name": "Senior python/django developer",
+    "salary": "от 200 000 ₽",
+    "company_name": "ООО МФК ЭйрЛоанс",
+    "city": "Москва"
+}
